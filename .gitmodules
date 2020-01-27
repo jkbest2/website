@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:jkbest2/jkbest2.github.io.git
+	branch = master
