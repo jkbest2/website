@@ -1,5 +1,6 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2050-04-27T00:00:00Z"
+draft: true
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -12,8 +13,10 @@ links:
 slides: example
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-title: Internal Project
+- Super cool
+- Change the world
+- hatag disruption
+title: Cool Project
 url_code: ""
 url_pdf: ""
 url_slides: ""
